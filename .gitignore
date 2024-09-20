@@ -1,0 +1,11 @@
+backend-server/node_modules/*
+frontend-client/node_modules/*
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
